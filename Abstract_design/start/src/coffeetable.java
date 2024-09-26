@@ -1,0 +1,3 @@
+interface coffeetable{
+    void placecoffee();
+}
